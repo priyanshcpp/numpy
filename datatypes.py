@@ -69,11 +69,3 @@ x1= x.astype(bool)
 print(x1)
 print(x1.dtype)
 
-
-# how to push this file on github
-# git init
-# git add datatypes.py
-# git commit -m "first commit"
-# git remote add origin
-# git push -u origin master
-# git push origin master
