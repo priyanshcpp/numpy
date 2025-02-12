@@ -15,8 +15,8 @@ print(x1)
  # Any changes made to the copy will not affect original array, and any changes made to the original array will not affect the copy.
  # The copy owns the data and any changes made to the copy will not affect original array.
     # The view does not own the data and any changes made to the view will affect the original array.
-    # If you modify the view, the original array will be modified as well.
-    # If you modify the copy, the original array is not modified.
+    # If we modify the view, the original array will be modified as well.
+    # If we modify the copy, the original array is not modified.
 
 import numpy as np 
 x = np.array([1,2,3,4])
