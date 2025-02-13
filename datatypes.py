@@ -67,5 +67,9 @@ import numpy as np
 x = np.array([1,0,3])
 x1= x.astype(bool)
 print(x1)
+<<<<<<< HEAD
 print(x1.dtype)
 
+=======
+print(x1.dtype)
+>>>>>>> 42389cd (shapes)
